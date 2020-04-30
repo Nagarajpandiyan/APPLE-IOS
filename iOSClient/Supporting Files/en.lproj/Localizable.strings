@@ -133,6 +133,7 @@
 "_file_not_rewite_doc_"     = "It is not possible to overwrite a document but only to create a new one";
 "_move_or_copy_"            = "Move or copy";
 "_copy_"                    = "Copy";
+"_now_"                     = "Now";
 
 // App
 
